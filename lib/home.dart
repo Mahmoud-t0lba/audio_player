@@ -315,7 +315,6 @@ class _MyHomePageState extends State<MyHomePage>
 
   String formatDuration(Duration ds, Duration p) {
     if (ds == null || p == null) return '--:--';
-    // var d = ds - p;
     var d = p;
 
     int minute = d.inMinutes;
