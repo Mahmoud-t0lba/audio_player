@@ -1,16 +1,4 @@
-# audio_player
+# flutter_audio_player
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-30 at 18 43 45](https://user-images.githubusercontent.com/78425511/181933607-67a61040-3e86-4be2-9a4f-1bdebb8c47e9.png)
+![Uploading Simulator Screen Shot - iPhone 13 Pro Max - 2022-07-30 at 18.42.40.png…]()
